@@ -6,9 +6,9 @@
 
 http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion
 
-[<img src="/base/desktop.webp" width="200">](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion)
+[<img src="/banners/edge.webp" width="200">](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion)
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/base/recent.webp" alt="TorZon Darkweb" style="max-width: 100%;"></a>
+<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/banners/footer.webp" alt="TorZon Darkweb" style="max-width: 100%;"></a>
 
 This resource provides information about the darkweb. We do not receive commissions from affiliate links, nor do we condone illegal activities.
 
@@ -38,8 +38,8 @@ Navigating **TorZon** involves risk. Implementing these safety tips is essential
 
 Remember, darknet use carries inherent dangers. Always prioritize security. Stay vigilant and confirm you're using the latest **TorZon links**. Taking these precautions, you can explore the **TorZon darknet** in a more secure way.
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/base/break.webp" alt="TorZon Market Login" style="max-width: 100%;"></a>
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/base/peek.webp" alt="TorZon Market Register" style="max-width: 100%;"></a>
+<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/banners/host.webp" alt="TorZon Market Login" style="max-width: 100%;"></a>
+<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/banners/dot.webp" alt="TorZon Market Register" style="max-width: 100%;"></a>
 
 ---
 
