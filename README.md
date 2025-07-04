@@ -47,4 +47,6 @@ Remember, darknet use carries inherent dangers. Always prioritize security. Stay
 
 This guide is strictly for educational purposes. Information here aims to improve understanding of the darknet. We neither endorse nor encourage illegal actions. Always abide by the laws and regulations of your jurisdiction.
 
-Update: url is now working and available
+
+
+Update:  04 July Updated design pattern reference links
