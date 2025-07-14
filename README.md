@@ -51,4 +51,6 @@ This guide is strictly for educational purposes. Information here aims to improv
 
 
 
-Update:  07/07/2025 11-47 Icon references
+
+
+Update: Secure URLs
