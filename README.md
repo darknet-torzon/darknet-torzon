@@ -53,4 +53,6 @@ This guide is strictly for educational purposes. Information here aims to improv
 
 
 
-Update: Secure URLs
+
+
+Update: Link is now accessible and responsive
