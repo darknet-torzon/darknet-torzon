@@ -71,4 +71,6 @@ This guide is strictly for educational purposes. Information here aims to improv
 
 
 
-Update:  14.09.2025
+
+
+Update:  18 September Fixed broken link, now accessible and working
